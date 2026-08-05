@@ -12,13 +12,13 @@ Kyoto University, School of Informatics (B4) → ???
 
 ## 🌱 Currently learning
 
-- Python (systematically, for research & backend)
-- TypeScript + React (planning to visualize LSAuth as a FastAPI + React web app)
-- Rust — going through Rustlings
+- Python : systematically, for research & backend
+- TypeScript + React : planning to visualize LiDAR-Space-AuthN as a FastAPI + React web app
+- Rust : going through Rustlings
 
 ## 🧰 Tech I work with
 
-**Languages**  Python, TypeScript, OCaml, C++, Rust (learning)
-**Web**  FastAPI, React, Next.js
-**Interests**  Authentication, Identity
+- **Languages** : Python, TypeScript, OCaml, C++, Rust (learning)
+- **Web**  : FastAPI, React, Next.js
+- **Interests**  : Authentication, Identity
 
