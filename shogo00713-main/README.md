@@ -1,6 +1,6 @@
-# Hi there 👋 I'm Shogo
+# Hi there 👋
 
-Kyoto University, School of Informatics (B4) → 
+Kyoto University, School of Informatics (B4) → ???
 
 ---
 
