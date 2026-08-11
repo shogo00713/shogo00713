@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Kyoto University, School of Informatics (B4) → ???
+Kyoto University, Computer Science (B4) → ???
 
 ---
 
