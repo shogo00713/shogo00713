@@ -6,18 +6,16 @@ Kyoto University, Informatics (B4) → Graduate School (2027–)
 
 ## 🔭 What I'm working on
 
-* **LiDAR-Space-AuthN** — A LiDAR-based spatial authentication system that treats *"place"* as an authentication factor.
-* Learning and exploring **Authentication, Authorization, and IAM** from both theoretical and practical perspectives.
-* Building small security-focused projects to deepen my understanding of authentication technologies and fullstack development.
+* **Research** — A LiDAR-based spatial authentication system that treats *"place"* as an authentication factor.
+* **AuthForge** — A series that explains authentication and authorization in plain terms and implements each mechanism in code, from Basic authentication to OAuth 2.0 and OpenID Connect.
 
-## 🌱 Currently learning
+## 💻 Tech
 
-* **Python** — systematically, for research and backend development
-* **TypeScript + React** — building web applications to visualize and interact with LiDAR-Space-AuthN
-* **IAM** — exploring technologies such as Basic Authentication, JWT, OAuth 2.0, and more
+* **Languages** : TypeScript, Python, C++
+* **Frameworks & Libraries** : React, Node.js
+* **Tools** : Git, GitHub
 
-## 🧰 Tech I work with
+## 🚀 Projects
 
-* **Languages** : Python, TypeScript, C++, OCaml
-* **Web** : FastAPI, React, Next.js, Tailwind CSS
-* **Interests** : Authentication, IAM
+* [Portfolio](https://shogo00713.dev)
+* [Horse Racing Game](https://horsegame-xi.vercel.app) — A horse racing simulation built to learn React and TypeScript.
